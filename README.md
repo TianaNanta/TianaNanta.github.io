@@ -1,10 +1,10 @@
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shantell+Sans&size=25&duration=3500&pause=1000&color=6423D2&width=1000&center=true&lines=Hi%F0%9F%91%8B%2C+I'm+ANDRIANJAKA+FENOSOA+Tiana+Nantenaina+%F0%9F%98%81;A+student+in+System+and+Network+Administration+at+ENI+Fianarantsoa+%F0%9F%98%8E;%F0%9F%98%8C+Learn%2C+Code++and+Share+%F0%9F%98%8C" alt="Typing SVG" /></a></h1>
 
-<h1 align="center">Hi 👋, I'm ANDRIANJAKA FENOSOA Tiana Nantenaina</h1>
-<h3 align="center">A student in System and Network Administration at ENI Fianarantsoa</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=TianaNanta&show_icons=true&theme=dracula&hide_border=true" alt="TianaNanta's Github stats" /></p>
 
 - 🔭 I’m currently working on [YuDown](https://github.com/TianaNanta/yudown.git)
 
-- 🌱 I’m currently learning **PHP, Symfony and Python**
+- 🌱 I’m currently learning **PHP, Go and Python**
 
 - 📫 How to reach me **andrianjakananta@gmail.com**
 
@@ -24,12 +24,11 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TianaNanta&layout=compact&theme=dracula&hide_border=true" alt="Top langs" /></p>
+
 <h3 align="left">Framework and Libraries</h3>
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white" />
 </p>
 
 <h3 align="left">Tools</h3>
@@ -45,8 +44,6 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-## My stats
+## Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=TianaNanta&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" /></p>
-
-![TianaNanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=TianaNanta&show_icons=true&theme=dracula&hide_border=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TianaNanta&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

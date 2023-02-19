@@ -1,4 +1,5 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Shantell+Sans&size=25&duration=3500&pause=1000&color=6423D2&width=1000&center=true&lines=Hi%F0%9F%91%8B%2C+I'm+ANDRIANJAKA+FENOSOA+Tiana+Nantenaina+%F0%9F%98%81;A+student+in+System+and+Network+Administration+at+ENI+Fianarantsoa+%F0%9F%98%8E;%F0%9F%98%8C+Learn%2C+Code++and+Share+%F0%9F%98%8C" alt="Typing SVG" /></a></h1>
+<h1 align="center">Hi 👋, I'm ANDRIANJAKA FENOSOA Tiana Nantenaina</h1>
+<h3 align="center">A student in System and Network Administration at ENI Fianarantsoa</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=TianaNanta&show_icons=true&theme=dracula&hide_border=true" alt="TianaNanta's Github stats" /></p>
 
